@@ -19,7 +19,7 @@ engineer = {
     "name"       : "Abdulmlek Marwan Al-Sharee",
     "university" : "Sana'a University — Faculty of Engineering",
     "degree"     : "B.Sc. Mechatronics Engineering",
-    "year"       : "3rd Year (2025–2026)",
+    "year"       : "3rd Year (2026–2027)",
     "focus"      : ["AI & Machine Learning", "Embedded Systems", "IoT", "Robotics"],
     "goal"       : "Master's Scholarship in Autonomous Systems / AI Engineering",
     "location"   : "Yemen 🇾🇪",

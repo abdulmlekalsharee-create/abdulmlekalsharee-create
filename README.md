@@ -102,13 +102,11 @@ real-time physics algorithms, and autonomous safety protocols.
 
 ---
 
-## 🎯 2025–2026 Goals
+## 🎯 2026-2027 Goals
 
 - [ ] 🏆 Achieve 90%+ GPA in Year 3
-- [ ] 📜 Score IELTS 7.0+
 - [ ] 🤖 Build & publish an AI + Embedded Systems project
 - [ ] 📄 Submit a paper to a student conference
-- [ ] 🌍 Apply for top Master's scholarships (DAAD, Erasmus, Fulbright)
 
 ---
 

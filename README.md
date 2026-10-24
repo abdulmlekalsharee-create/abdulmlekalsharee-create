@@ -1,129 +1,80 @@
-<div align="center">
+<h1 align="center">Abdulmlek Al-Sharee</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=200&section=header&text=Abdulmlek%20Al-Sharee&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Mechatronics%20Engineer%20%7C%20AI%20%26%20Robotics%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+<p align="center">
+  <b>Mechatronics Engineering student</b> &middot; Embedded systems &middot; IoT &middot; Robotics &middot; Signal processing &middot; AI for autonomous systems
+</p>
 
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/abdulmlek-alsharee">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://abdulmlek-alsharee.netlify.app">Portfolio</a>
+</p>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+that+sense%2C+think+%26+act;Mechatronics+%2B+AI+%2B+IoT+%3D+The+Future;Solo+engineer+who+outperforms+teams+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```python
-engineer = {
-    "name"       : "Abdulmlek Marwan Al-Sharee",
-    "university" : "Sana'a University — Faculty of Engineering",
-    "degree"     : "B.Sc. Mechatronics Engineering",
-    "year"       : "3rd Year (2026–2027)",
-    "focus"      : ["AI & Machine Learning", "Embedded Systems", "IoT", "Robotics"],
-    "goal"       : "Master's Scholarship in Autonomous Systems / AI Engineering",
-    "location"   : "Yemen 🇾🇪",
-    "motto"      : "Give machines a brain, senses, and muscles."
-}
-```
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square">
+  <img alt="C++17" src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square">
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square">
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square">
+  <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-D32F2F?style=flat-square">
+  <img alt="Proteus" src="https://img.shields.io/badge/Proteus-1F6FB2?style=flat-square">
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### Embedded & Hardware
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+I am a third-year Mechatronics Engineering student at Sana'a University. I like building systems that **sense, compute and act**:
+from an A* planner that routes a robot around heat, to Wi-Fi-based vital-sign sensing and ESP32 safety controllers.
+My goal is a Master's degree in **Autonomous Systems / AI Engineering**.
 
-### AI & Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- 🎓 B.Sc. Mechatronics Engineering, Faculty of Engineering, Sana'a University (3rd year, expected 2029)
+- 🔭 Focus: embedded systems, IoT, robotics, signal processing and AI for autonomous systems
+- 🎯 Goal: a Master's scholarship in Autonomous Systems / AI Engineering
+- 🌍 Sana'a, Yemen &nbsp;|&nbsp; Arabic, English, learning German
 
-### IoT & Cloud
-![ThingSpeak](https://img.shields.io/badge/ThingSpeak-0076CE?style=for-the-badge&logo=mathworks&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## Featured projects
 
-### Design & Simulation
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| [**Thermal-Aware Path Planner**](https://github.com/abdulmlekalsharee-create/Thermal-Aware-Path-Planner) | Object-oriented A* planner that routes around heat using real SolidWorks thermal-simulation data. On the test map it lowers the peak temperature along the path from 61.75 °C to 32.15 °C for about 11 % extra distance. Includes a MATLAB GUI. | C++17, MATLAB, SolidWorks |
+| [**Bionic RF Radar**](https://github.com/abdulmlekalsharee-create/Bionic-RF-Radar) | Contactless respiration and heart-rate estimation from Wi-Fi channel state information (CSI): two ESP32 boards, a Python live GUI and a MATLAB app. Individual research prototype, not a medical device. | ESP32, Python, MATLAB, DSP |
+| [**IoT Hydraulic Monitoring & Safety Control**](https://github.com/abdulmlekalsharee-create/IoT-Hydraulic-Safety-Control-System) | ESP32 system that measures flow and derives velocity, hydraulic power and volume, with an OLED, a web dashboard, ThingSpeak logging, e-mail alerts and automatic valve shut-off. Individual project, second year. | ESP32, Arduino C++, ThingSpeak |
+| [**Dual-Axis Solar Tracker**](https://github.com/abdulmlekalsharee-create/Dual-Axis-Solar-Tracker) | Analog dual-axis tracker with no microcontroller: four LDRs, an LM339 comparator stage and an L293D driving two DC motors, designed and simulated in Proteus. Team project (six students). | Proteus, LM339, L293D |
+| [**Smart Parking Management System**](https://github.com/abdulmlekalsharee-create/Smart-Parking-System-c) | Console application in C with dynamic memory, structs, enums and bit-fields, recursion and file I/O. | C |
 
----
+## Skills
 
-## 🚀 Featured Projects
+| Area | Tools |
+|---|---|
+| Programming | C, C++ (object-oriented, C++17), Python, MATLAB |
+| Embedded and IoT | ESP32 (Arduino), ESP-NOW, flow sensing, ThingSpeak, SMTP alerts |
+| Signal processing | Band-pass filtering, FFT, PCA (Python, MATLAB), Wi-Fi CSI sensing |
+| Analog electronics | Comparators (LM339), H-bridge motor drivers (L293D), sensor interfacing |
+| Design and simulation | SolidWorks (CAD and thermal simulation), Proteus, Multisim |
+| Exploring next | TensorFlow, OpenCV, MQTT |
 
-### ⚡ Autonomous IoT-Based Smart Hydraulic Monitoring & Safety Control System
-> **Solo project — Sophomore Year** | Outperformed standard 15-member team projects
+## Education and certifications
 
-A full-stack **"Digital Twin"** for hydraulic networks combining industrial sensing,
-real-time physics algorithms, and autonomous safety protocols.
+- **B.Sc. Mechatronics Engineering**, Sana'a University (expected 2029)
+- **Python Programming**, Sana'a University
+- **Advanced ICDL**, General Telecommunication Institute
 
-| Feature | Detail |
-|---------|--------|
-| 🎛️ Microcontroller | ESP32 Dual-Core |
-| ⏱️ Emergency Response | < 500ms autonomous valve shutoff |
-| 📡 Cloud Logging | ThingSpeak every 20 seconds |
-| 🧮 Physics Engine | Bernoulli's Principle + Continuity Equation in C++ |
-| 🔌 Industrial Sensing | 4-20mA Pressure Sensor + Hall-Effect Flow Sensor |
-| 🌐 Interface | Async Local Web Dashboard + SMTP Email Alerts |
+## Leadership
 
-**Tech Stack:**
-`ESP32` `C++` `FreeRTOS` `ThingSpeak` `SMTP` `4-20mA Sensing` `OLED` `Solenoid Valve`
+- Class Representative, Sana'a University
 
----
+## What's next
 
-### 🤖 [Project 2 — Coming Soon]
-> AI-powered Computer Vision system for industrial inspection
+- 🤖 An AI and computer-vision project for industrial inspection
 
-*Currently in development — Stay tuned!*
+## Goals for 2026–2027
 
----
+- [ ] Achieve a 90%+ GPA in Year 3
+- [ ] Build and publish an AI + embedded systems project
+- [ ] Submit a paper to a student conference
 
-## 📊 GitHub Stats
+## Connect
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulmlekalsharee-create&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=06090F&title_color=00C2FF&icon_color=6C63FF&text_color=E8EDF2"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmlekalsharee-create&layout=compact&theme=tokyonight&hide_border=true&bg_color=06090F&title_color=00C2FF&text_color=E8EDF2"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abdulmlekalsharee-create&theme=tokyonight&hide_border=true&background=06090F&ring=00C2FF&fire=6C63FF&currStreakLabel=00C2FF)
-
-</div>
-
----
-
-## 🎯 2026-2027 Goals
-
-- [ ] 🏆 Achieve 90%+ GPA in Year 3
-- [ ] 🤖 Build & publish an AI + Embedded Systems project
-- [ ] 📄 Submit a paper to a student conference
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO_LINK)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=100&section=footer" width="100%"/>
-
-</div>
+- 💼 [LinkedIn](https://linkedin.com/in/abdulmlek-alsharee)
+- 🌐 [Portfolio](https://abdulmlek-alsharee.netlify.app)
